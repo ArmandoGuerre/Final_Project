@@ -1,0 +1,8 @@
+.error,
+      .error-2 {
+        color: red;
+      }
+      button[type="submit"] {
+        margin-top: 1rem;
+        display: block;
+      }

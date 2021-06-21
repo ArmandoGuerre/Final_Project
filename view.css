@@ -1,0 +1,15 @@
+.btns {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: blue;
+        height: 5rem;
+      }
+      .note {
+        margin-top: 1rem;
+        display: block;
+      }
+      .err,
+      .err-2 {
+        color: red;
+      }
